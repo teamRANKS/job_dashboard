@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/job_dashboard/static/css/main.5a0d5e47.css",
+    "main.js": "/job_dashboard/static/js/main.87f565c7.js",
+    "static/media/MusicPlayer.zip": "/job_dashboard/static/media/MusicPlayer.a04c7facda4c6a2d391c.zip",
+    "static/media/NumberGuessingGame.zip": "/job_dashboard/static/media/NumberGuessingGame.55d79fb4d007dadd098e.zip",
+    "static/media/Otp.zip": "/job_dashboard/static/media/Otp.2931de4751789fd84e8d.zip",
+    "index.html": "/job_dashboard/index.html",
+    "main.5a0d5e47.css.map": "/job_dashboard/static/css/main.5a0d5e47.css.map",
+    "main.87f565c7.js.map": "/job_dashboard/static/js/main.87f565c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a0d5e47.css",
+    "static/js/main.87f565c7.js"
+  ]
+}
