@@ -1,0 +1,17 @@
+header {
+  background: var(--color-bg-variant);
+  padding: 2rem;
+  text-align: center;
+  font-size: 0.9rem;
+  /* margin-top: 2rem; */
+}
+footer a {
+  color: var(--color-bg);
+}
+
+.footer_logo {
+  font-size: 2rem;
+  font-weight: 500;
+  margin-bottom: 2rem;
+  display: inline-block;
+}
